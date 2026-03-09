@@ -311,9 +311,5 @@ Possible enhancements include:
 
 ---
 
-# Author
 
-Developed as a **Multimodal Video Understanding System** project for AI and accessibility research.
-
-```
 ```
